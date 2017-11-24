@@ -1,0 +1,14 @@
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\obj\Debug\TesteEDeploy.IoC.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\TesteEDeploy.IoC.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\TesteEDeploy.IoC.pdb
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Ninject.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Teste.Application.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Dominio.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Teste.Application.pdb
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Ninject.xml
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Dominio.pdb
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\obj\Debug\TesteEDeploy.IoC.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\obj\Debug\TesteEDeploy.IoC.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\TesteEDeploy.IoC\obj\Debug\TesteEDeploy.IoC.pdb

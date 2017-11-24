@@ -1,0 +1,10 @@
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\bin\Debug\Teste.Application.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\bin\Debug\Teste.Application.pdb
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\bin\Debug\Dominio.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\bin\Debug\Dominio.pdb
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\obj\Debug\TesteEDeploy.Application.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\obj\Debug\TesteEDeploy.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\obj\Debug\Teste.Application.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Teste.Application\obj\Debug\Teste.Application.pdb

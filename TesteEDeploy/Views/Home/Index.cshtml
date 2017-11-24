@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "A Web Page";
+}
+
+@section Scripts{
+    <script src="../Scripts/Home/home.js"></script>
+}
+
+<form>
+    <div class="col-md-3">
+        <label>Cidade:</label>
+        <input type="text" id="cidade">
+    </div>
+    <div class="col-md-3">
+        <label>Estado:</label>
+        <input type="text" id="estado">
+    </div>
+    <div class="col-md-3">
+        <button type="button" id="btn-buscar">Buscar</button>
+    </div>
+
+</form>
+
+<div class="table-responsive" style="margin-top: 5%">
+    <table id="tblResultado" class="table table-bordered table-striped table-condensed">
+        <thead>
+            <tr>
+                <td>Estado</td>
+                <td>Cidade</td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="3" style="text-align: center">Não existem registros, utilize os filtros para realizar uma busca</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

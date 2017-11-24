@@ -1,0 +1,5 @@
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Dominio\bin\Debug\Dominio.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Dominio\bin\Debug\Dominio.pdb
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Dominio\obj\Debug\TesteEDeploy.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Dominio\obj\Debug\Dominio.dll
+C:\Projetos\TesteNetEDeploy\TesteEDeploy\Dominio\obj\Debug\Dominio.pdb
